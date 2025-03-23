@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="pp.jpj" alt="Your Profile Picture" class="profile-picture">
+            <img src="PP.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>Ms.HEMA PRIYA.C</h1>
             <p>STUDENT</p>
         </div>
