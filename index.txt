@@ -95,9 +95,9 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="propic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Ms.R.T.RESHMA HASHMI</h1>
-            <p>ASSISTANT PROFESSOR</p>
+            <img src="pp.jpj" alt="Your Profile Picture" class="profile-picture">
+            <h1>Ms.HEMA PRIYA.C</h1>
+            <p>STUDENT</p>
         </div>
     </header>
 
@@ -106,7 +106,6 @@
             <li><a href="#about">About</a></li>
             <li><a href="#education">Education</a></li>
             <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
             <li><a href="#resume">Resume</a></li>
            
         </ul>
@@ -115,14 +114,14 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>A seasoned Assistant Professor of Computer Science, well-versed in the digital realms. On the lookout for an Assistant Professor role where I can harness my teaching prowess, research acumen, and programming expertise to nurture the next generation of computer scientists and enrich the academic landscape.</p>
+            <p>A Dedicated and motivated 2nd year bachelor of computer applications student with a strong foundation in programming language, seeking an entry level position in it solutions and applying the best of my knowledge in the field of it solutions.</p>
         </div>
     </section>
 
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>University of Madras - M.Sc.IT</p>
+            <p>University of Madras- Pursuing BCA-2nd Year</p>
             
             
         </div>
@@ -132,26 +131,12 @@
         <div class="section-content">
             <h2>Skills</h2>
             <ul>
+                <li>PYTHON</li>
                 <li>JAVA</li>
-                <li>RDBMS</li>
                 <li>C++</li>
-                <li>WEB DESIGNING</li>
-                <li>ADNROID</li>
-                <li>R PROGRAMMING<li>
+                <li>C PROGRAMMING</li>
+                <li>HTML</li
                     
-            </ul>
-        </div>
-    </section>
-
-    <section id="projects">
-        <div class="section-content">
-            <h2>Projects</h2>
-            <ul>
-                <li><a href="#">AI Based alternator control system</a></li>
-                <li><a href="#">Cloud Security IBM</a></li>
-                <li><a href="#">IBM chetbot</a></li>
-                <li><a href="#">chetbot</a></li> 
-                <!-- Add more project links here -->
             </ul>
         </div>
     </section>
